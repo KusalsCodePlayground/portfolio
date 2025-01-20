@@ -12,7 +12,7 @@ const codeText = `
     public static String greet(String role) {
         return "Hello There, I'm a " + role + ".";
     }
-}
+  }
 
 `
 
